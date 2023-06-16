@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cicciopel
+- 👋 Hi, I’m Cicciopel
 - 👀 I’m interested in become a software engineer 
 - 🌱 I’m currently learning c/c++ and java
 - 📫 How to reach me: Discord = V2Pingu#9691
