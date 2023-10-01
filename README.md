@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cicciopel
 - 🧑🏻‍💻 I’m interested in become a software engineer 
-- 🌱 I’m currently learning Java☕
+- 🌱 I’m currently learning Java
 - 🍏 I know every Apple products 
 - 📫 How to reach me: Discord = Fonzis#9691
 
